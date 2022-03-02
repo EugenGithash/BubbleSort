@@ -18,7 +18,7 @@ void bubbleSort(int arr[], int n)
 
 int main()
 {
-    int arr[] = { 23, 19, 45, 44, 44, 0, 1 ,3 ,59 };
+    //int arr[] = { 23, 19, 45, 44, 44, 0, 1 ,3 ,59 };
     int n;
     cout << "Introduceti numarul de elemente din vector: "; cin >> n; cout << endl;
     cout << "Introduceti elementele vectorului:";
